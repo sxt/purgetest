@@ -5,3 +5,4 @@ This is a test for git purge
 
 Another addition
 
+Third addition (with props)
